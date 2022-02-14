@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: 'Lecture 10: Topics covered: Course summary and your questions'
+learning_resource_types: []
 resourcetype: Image
 title: lec10
+type: OCWImage
 uid: 27465f2b-9c9b-543e-7eda-f2d69f3aacf5
 ---

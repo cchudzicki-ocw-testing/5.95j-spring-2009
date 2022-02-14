@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: 'Lecture 3: Taking account of misconceptions; avoiding rote learning'
+learning_resource_types: []
 resourcetype: Image
 title: lec3
+type: OCWImage
 uid: deb43696-988a-ca03-2848-9389a71b126f
 ---

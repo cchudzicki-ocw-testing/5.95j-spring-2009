@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: 'Lecture 1: General Principles of Teaching'
+learning_resource_types: []
 resourcetype: Image
 title: lec1
+type: OCWImage
 uid: 40a42515-6769-2e12-6095-2e667662f714
 ---

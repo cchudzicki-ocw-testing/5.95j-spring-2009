@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Discussions
+parent_type: CourseSection
+related_resources_text: Student questions ([PDF](resources/mit5_95js09_res04 "Open
+  in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: General Principles of Teaching'
 uid: 396ebbba-ce52-5afe-9562-3c19962acd37

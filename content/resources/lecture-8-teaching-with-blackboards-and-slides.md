@@ -2,6 +2,16 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Discussions
+parent_type: CourseSection
+related_resources_text: Logarithm of factorials example slides ([PDF](resources/mit5_95js09_slide08
+  "Open in a new window.")), Archive ([ZIP](resources/log_slides "Open in a new window."))
+  (The archive log\_slides.zip contains 2 .tex files (env.tex and log.tex), 1 .mp
+  file (fig.mp), a UNIX shell script (makefile), and a text file (README).)
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Teaching with Blackboards and Slides'
 uid: 0b5fc7b5-5834-d568-70fc-c422147feb10
