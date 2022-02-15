@@ -4,6 +4,7 @@ description: Student questions from the first lecture of the course.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/f5e663a2df8f4d8f4515d27439067c31_MIT5_95js09_res04.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Video Discussions
 parent_type: CourseSection
 resourcetype: Document

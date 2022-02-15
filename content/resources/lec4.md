@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'Lecture 4: Designing homework and exam problems'
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec4
 uid: b403b6fa-bf55-958a-112d-fa4142b29b61

@@ -4,6 +4,7 @@ description: Transcript of a video lecture with a course summary and student que
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/20ed1e45f1a35fe0a8934f61ec149975_IXjwZlJ9Uvk.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 20ed1e45-f1a3-5fe0-a893-4f61ec149975

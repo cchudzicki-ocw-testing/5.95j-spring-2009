@@ -6,6 +6,7 @@ description: Supporting files for a lecture on teaching with blackboards and sli
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/3099dda9fe9e7d84b45d324dbf03d197_log_slides.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Video Discussions
 parent_type: CourseSection
 resourcetype: Other

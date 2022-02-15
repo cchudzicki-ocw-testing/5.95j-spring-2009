@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'Lecture 5: Course Design'
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec5
 uid: b3fb7afc-88d5-6f14-5dbd-4c362291e574

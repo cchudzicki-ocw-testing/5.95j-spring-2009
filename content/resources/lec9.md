@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'Lecture 9: Political barriers to educational change'
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec9
 uid: af5a5267-7de8-02c5-b55d-d8dbeb2effee
