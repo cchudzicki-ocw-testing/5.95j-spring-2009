@@ -8,6 +8,5 @@ parent_title: Video Discussions
 parent_type: CourseSection
 resourcetype: Document
 title: Logarithm of factorials example slides
-type: OCWFile
 uid: a1d74c51-a3a0-a40b-bafd-df445b0947f6
 ---

@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Lesson plan
-type: OCWFile
 uid: 8235e267-fed6-297b-2aa3-05c0f8f01c52
 ---

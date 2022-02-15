@@ -10,6 +10,5 @@ parent_title: Video Discussions
 parent_type: CourseSection
 resourcetype: Other
 title: Archive
-type: OCWFile
 uid: 3099dda9-fe9e-7d84-b45d-324dbf03d197
 ---

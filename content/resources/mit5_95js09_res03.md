@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Reading memos
-type: OCWFile
 uid: ddcd75dd-0cb5-07d6-67e6-815871e6d725
 ---

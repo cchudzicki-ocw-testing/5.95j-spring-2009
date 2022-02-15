@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Feedback form
-type: OCWFile
 uid: a4ce017e-c367-f9d4-bab4-46d8375b6d14
 ---

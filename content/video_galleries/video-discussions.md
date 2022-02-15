@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: Video Discussions
-type: CourseSection
 uid: f697ce3e-6cf8-177b-0cbd-1510a0728bfc
 videos:
   content:

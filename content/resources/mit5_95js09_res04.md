@@ -8,6 +8,5 @@ parent_title: Video Discussions
 parent_type: CourseSection
 resourcetype: Document
 title: Questions from Lecture 1
-type: OCWFile
 uid: f5e663a2-df8f-4d8f-4515-d27439067c31
 ---

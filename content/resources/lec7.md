@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: lec7
-type: OCWImage
 uid: 78a207b5-229e-4d08-0380-97104c8cbccd
 ---
