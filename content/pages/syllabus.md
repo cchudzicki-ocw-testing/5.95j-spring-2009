@@ -39,7 +39,7 @@ COMMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lesson plan ({{< resource_link 8235e267-fed6-297b-2aa3-05c0f8f01c52 "PDF" >}})
+Lesson plan ({{% resource_link 8235e267-fed6-297b-2aa3-05c0f8f01c52 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Teachers make lesson plans. Here is a form for a sample lesson.
@@ -48,7 +48,7 @@ Teachers make lesson plans. Here is a form for a sample lesson.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Feedback form ({{< resource_link a4ce017e-c367-f9d4-bab4-46d8375b6d14 "PDF" >}})
+Feedback form ({{% resource_link a4ce017e-c367-f9d4-bab4-46d8375b6d14 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 After class is over, students can give feedback on the lesson's strong and weak points. Here is a form to aid students in giving comments.
@@ -57,7 +57,7 @@ After class is over, students can give feedback on the lesson's strong and weak 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Reading memo ({{< resource_link ddcd75dd-0cb5-07d6-67e6-815871e6d725 "PDF" >}})
+Reading memo ({{% resource_link ddcd75dd-0cb5-07d6-67e6-815871e6d725 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 If there are lecture notes, students and instructors can benefit from student comments about the material. Here is a description of the reading memos activity.
