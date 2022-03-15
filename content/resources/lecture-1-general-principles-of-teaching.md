@@ -8,8 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Discussions
 parent_type: CourseSection
-related_resources_text: Student questions ([PDF](resources/mit5_95js09_res04 "Open
-  in a new window."))
+related_resources_text: Student questions ([PDF](/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/resources/mit5_95js09_res04))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: General Principles of Teaching'
