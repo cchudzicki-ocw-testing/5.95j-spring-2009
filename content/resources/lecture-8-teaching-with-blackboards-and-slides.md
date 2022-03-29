@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -14,6 +15,7 @@ related_resources_text: Logarithm of factorials example slides ([PDF](/courses/5
   file (fig.mp), a UNIX shell script (makefile), and a text file (README).)
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Teaching with Blackboards and Slides'
 uid: 0b5fc7b5-5834-d568-70fc-c422147feb10
 video_files:
