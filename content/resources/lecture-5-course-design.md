@@ -27,3 +27,4 @@ video_metadata:
 **Topics covered:** Course design  
   
 **Instructor:** Dr. Sanjoy Mahajan
+

@@ -27,3 +27,4 @@ video_metadata:
 **Topics covered:** Political barriers to educational change  
   
 **Instructor:** Dr. Sanjoy Mahajan
+

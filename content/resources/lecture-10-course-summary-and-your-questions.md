@@ -27,3 +27,4 @@ video_metadata:
 **Topics covered:** Course summary and your questions  
   
 **Instructor:** Dr. Sanjoy Mahajan
+

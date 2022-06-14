@@ -27,3 +27,4 @@ video_metadata:
 **Topics covered:** Course Introduction
 
 **Instructor:** Dr. Sanjoy Mahajan
+

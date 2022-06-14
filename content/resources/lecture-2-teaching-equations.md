@@ -27,3 +27,4 @@ video_metadata:
 **Topics covered:** Teaching equations  
   
 **Instructor:** Dr. Sanjoy Mahajan
+

@@ -27,3 +27,4 @@ video_metadata:
 **Topics covered:** Lecture planning and performing  
   
 **Instructor:** Dr. Sanjoy Mahajan
+
