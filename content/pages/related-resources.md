@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of references useful for teaching college-level
+  science and engineering.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
