@@ -4,6 +4,7 @@ description: Transcript of a video lecture with a course summary and student que
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/20ed1e45f1a35fe0a8934f61ec149975_IXjwZlJ9Uvk.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
